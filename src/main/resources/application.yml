@@ -1,0 +1,11 @@
+server:
+  port: 8094
+
+spring:
+  application:
+    name: ai-catalog-quality-auditor
+
+logging:
+  level:
+    root: INFO
+    com.ritangkar.catalogauditor: INFO
